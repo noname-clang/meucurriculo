@@ -1,8 +1,10 @@
 body {
- background-image: url('https://media.tenor.com/Y0ZkZqBrUnMAAAAC/anime-aesthetic.gif');
+  
+ background-image: url('https://i.gifer.com/VhkF.gif');
  background-size: cover;
   background-clip: border-box;
   margin: 0;
+ 
 }
       
 
@@ -35,9 +37,9 @@ td {
   }
 
   p{
-    
-
     color: rgb(0, 162, 255);
+    font-size: 30px;
+    text-shadow: 0px 0px 22px rgb(252, 252, 252);
   }
 
   .textomode{
@@ -45,4 +47,11 @@ td {
     -webkit-text-stroke-width: 0.6  px;
     -webkit-text-stroke-color: #000;
     text-shadow: 2px -2px 2px rgb(10, 10, 10);
+    }
+
+    #corbranca 
+    {
+      color: white;
+      font-size: 30px;
+    
     }
