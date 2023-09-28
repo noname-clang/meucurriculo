@@ -1,0 +1,48 @@
+body {
+ background-image: url('https://media.tenor.com/Y0ZkZqBrUnMAAAAC/anime-aesthetic.gif');
+ background-size: cover;
+  background-clip: border-box;
+  margin: 0;
+}
+      
+
+.imgpos
+{
+  position: absolute;
+  left: 1536px;
+  top: -10px;
+  right: 90px;
+  height: 40vh;
+  width: 20vw;
+  background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3653209-db9b-405e-a868-ee5ae929fa3b/d975b6j-37b73ab8-9d52-46e0-8e30-59ad81611580.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QzNjUzMjA5LWRiOWItNDA1ZS1hODY4LWVlNWFlOTI5ZmEzYlwvZDk3NWI2ai0zN2I3M2FiOC05ZDUyLTQ2ZTAtOGUzMC01OWFkODE2MTE1ODAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RZNEbvRg-10X35XPBScDRWkJVV8S1lWFDd8hm6T4Veg');
+  background-size: cover;
+}
+td {
+  margin: auto;
+  text-align: left;
+
+  color: #fcfffc;
+  position:relative ;
+  font-size: 51px;
+  text-shadow: 2px -2px 2px rgb(10, 10, 10);
+  }
+  h2 {  
+    font-size: 51px;
+    margin: 0;
+    text-align: auto ;
+    color: #2bff00;
+
+  }
+
+  p{
+    
+
+    color: rgb(0, 162, 255);
+  }
+
+  .textomode{
+    text-align: left;
+    -webkit-text-stroke-width: 0.6  px;
+    -webkit-text-stroke-color: #000;
+    text-shadow: 2px -2px 2px rgb(10, 10, 10);
+    }
